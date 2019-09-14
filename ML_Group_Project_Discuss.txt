@@ -1,0 +1,1809 @@
+03/06/2019, 2:27 pm - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+02/06/2019, 9:34 pm - Rakesh ML created group "ML Group Project Discuss🙏"
+03/06/2019, 2:26 pm - You joined using this group's invite link
+03/06/2019, 2:39 pm - +91 98717 63736 joined using this group's invite link
+03/06/2019, 3:06 pm - +91 85318 35994 joined using this group's invite link
+03/06/2019, 3:07 pm - +91 99922 18136 joined using this group's invite link
+03/06/2019, 3:41 pm - Rakesh ML: https://docs.google.com/spreadsheets/d/1fbf1umpcdzcgolwdlugjJp0DOwSOCxwRSqwVXTA_8D0/edit?usp=sharing
+03/06/2019, 3:42 pm - Rakesh ML: Please update details
+03/06/2019, 3:42 pm - Rakesh ML: We shall easily discuss
+03/06/2019, 3:43 pm - Rakesh ML: I have added new fields
+03/06/2019, 3:44 pm - +91 77089 20801: Ok
+03/06/2019, 5:20 pm - +91 80720 46551 joined using this group's invite link
+03/06/2019, 6:46 pm - +91 81061 58889 joined using this group's invite link
+03/06/2019, 6:46 pm - +91 96263 82220 joined using this group's invite link
+03/06/2019, 7:41 pm - Rakesh ML removed +91 96263 82220
+03/06/2019, 8:01 pm - +91 77089 20801: @918951101651 - Is deep learning knowledge necessary for applying machine learning job.
+03/06/2019, 8:09 pm - +91 99865 94131: No
+03/06/2019, 8:11 pm - +91 99865 94131: If the company specifically wants you to use Deep Learning, they ought to mention that before hiring you
+03/06/2019, 8:18 pm - +91 77089 20801: Ok thanks for the information
+03/06/2019, 8:21 pm - Rakesh ML: If you know deep learning, you have advantage, interview will be hired easily.
+03/06/2019, 9:13 pm - +91 88006 47711 joined using this group's invite link
+03/06/2019, 10:07 pm - Rakesh ML: https://docs.google.com/spreadsheets/d/1fbf1umpcdzcgolwdlugjJp0DOwSOCxwRSqwVXTA_8D0/edit?usp=sharing
+03/06/2019, 10:08 pm - Rakesh ML: Plz update all details in the sheets , so i shall easily track you guys
+03/06/2019, 10:08 pm - Rakesh ML: we shall introduce
+03/06/2019, 10:10 pm - Rakesh ML: I am rakesh kumar
+Exp : 3.6 Years (Data Science , Machine Learning, Deep Learning, NLP, Python, Java, SQL, Elastic Search, Android).
+03/06/2019, 10:11 pm - Rakesh ML: Guys please tell here.
+What do you want to implement?
+Do you have any other solutions or ideas , so i can implement here.
+03/06/2019, 10:12 pm - Rakesh ML: How do  you guys want to start to implement??
+03/06/2019, 10:13 pm - +91 94810 71831: Hi... I’m Meghana.. experience - 4 years as a java developer. Currently working as a freelancer in data analysis for about 2 years. Looking out to restart my career in data science .
+03/06/2019, 10:14 pm - Rakesh ML: Some people are beginners and some people are medium level and some people are good also.
+
+Some people are looking for job change as soon.
+
+How shall we maintain our group practice?
+Plz tell here only.
+03/06/2019, 10:14 pm - +91 94810 71831: Let’s start one project from scratch
+03/06/2019, 10:14 pm - +91 94810 71831: Freshers will get a hang of it
+03/06/2019, 10:14 pm - Rakesh ML: for you data science learning important.
+03/06/2019, 10:15 pm - +91 94810 71831: Yes. It is important
+03/06/2019, 10:15 pm - Rakesh ML: Do you have any dataset?
+How can you start??
+03/06/2019, 10:16 pm - +91 94810 71831: See let’s pick up one algorithm per week , implement it and discuss all topics particularly theory that week itself
+03/06/2019, 10:16 pm - +91 94810 71831: That we can source from kaggle
+03/06/2019, 10:17 pm - +91 94810 71831: Let’s start with linear regression?
+03/06/2019, 10:17 pm - +91 99865 94131: Hi, I'm Nishant. I have 2 years of experience, and I've been working in Data Science.
+03/06/2019, 10:17 pm - Rakesh ML: sure.
+Data Science : Hypothesis is very important.
+You can start to learn hypothesis.
+I will join you.
+
+I know only basic , we shall discuss together , so we shall easily answer interview question
+03/06/2019, 10:18 pm - +91 99865 94131: Hypothesis testing?
+03/06/2019, 10:18 pm - Rakesh ML: i want to know all people suggestion , so we shall start to implement
+03/06/2019, 10:18 pm - +91 99865 94131: Anybody know inferential statistics?
+03/06/2019, 10:18 pm - Rakesh ML: Very very important
+03/06/2019, 10:19 pm - +91 87926 87274: Myself Vimal, around 4 yrs experience in BigData and ML
+03/06/2019, 10:19 pm - Rakesh ML: plz take group feedback. so we shall make plan.
+03/06/2019, 10:20 pm - Rakesh ML: plz tell waht do you want to learn first
+03/06/2019, 10:20 pm - +91 87926 87274: Deep Learning :)
+03/06/2019, 10:21 pm - Rakesh ML: what do you want to learn?
+03/06/2019, 10:21 pm - Rakesh ML: plz write everything in single message.
+03/06/2019, 10:22 pm - +91 99865 94131: Will make a list and post
+03/06/2019, 10:23 pm - Rakesh ML: not like that , you can not start implementation at a time.
+I will track all of them based on only 1 task.
+03/06/2019, 10:23 pm - +91 99865 94131: For now, I'd like to focus on:
+
+Linear algebra. 
+Inferential statistics and Hypothesis testing. 
+Calculus.
+NLP - Text analytics.
+03/06/2019, 10:23 pm - +91 94810 71831: I was talking about hands on
+03/06/2019, 10:24 pm - +91 94810 71831: How many freshers here ?
+03/06/2019, 10:24 pm - +91 94810 71831: I mean starting out new in data science
+03/06/2019, 10:25 pm - +91 76961 18524 joined using this group's invite link
+03/06/2019, 10:26 pm - Rakesh ML: this group have already joined 25 peoples , i want to atleast some people do somethings.
+03/06/2019, 10:27 pm - Rakesh ML: None of them , all are having experience in different fields.
+03/06/2019, 10:28 pm - Rakesh ML: i want to know everyone opinion
+03/06/2019, 10:29 pm - Rakesh ML: dude try to implement only 1
+i have to make a plan a/c to interested, all are having only 2 or 3 hours daily. on that basic. we shall implement
+03/06/2019, 10:30 pm - +91 86046 49926: I am a fresher and would like to work on dl
+03/06/2019, 10:30 pm - +91 86046 49926: Arpan here
+03/06/2019, 10:30 pm - Rakesh ML: @919481071831 Data Science
+@918792687274 Deep Learning
+03/06/2019, 10:30 pm - Rakesh ML: write everything in single message
+03/06/2019, 10:31 pm - +91 86046 49926: I am arpan and i am a fresher in this field. I know python and basics of Deep learning.
+03/06/2019, 10:31 pm - Rakesh ML: who want to learn DL , plz python is compulsory for them.
+
+Plz do not jump.
+03/06/2019, 10:32 pm - Rakesh ML: Interested also write?
+03/06/2019, 10:32 pm - +91 86046 49926: I am interested in Deep learning.
+03/06/2019, 10:32 pm - Rakesh ML: 3 DL 
+1 DS
+03/06/2019, 10:33 pm - +91 77089 20801: Hi I'm manoj kumar, I have 3 years  exp in  server/cloud support, iam currently doing my post graduate diploma  in ml(data engineer),  I know ml,big data, I want to work on ml real world problems and want to learn about deep learning.
+03/06/2019, 10:33 pm - +91 81061 58889: Hi Pavan here .. 
+Working in Networking field and looking for a change 
+
+I have fair knowledge in Statstics, Machine Learning, Python and R
+03/06/2019, 10:33 pm - Rakesh ML: Interested?
+03/06/2019, 10:34 pm - Rakesh ML: None of them want to learn ML.
+In interview , 90 % question from DS and ML and Python only
+03/06/2019, 10:35 pm - +91 77089 20801: Iam first priority is ml
+03/06/2019, 10:35 pm - +91 94810 71831: True
+03/06/2019, 10:35 pm - Rakesh ML: only 1 ML or DL?
+03/06/2019, 10:36 pm - +91 77089 20801: My priority is ml
+03/06/2019, 10:37 pm - Rakesh ML: Guys will take time to learn?
+Plz learn from Scratch
+03/06/2019, 10:38 pm - +91 77089 20801: Ok, any links yu can where we can get complete knowledge
+03/06/2019, 10:39 pm - +91 99240 26836: Hi I am Dhrumil
+Have 3 yrs of exp in Automation testing
+Also have some basic knowledge of ML
+Would like to upgrade my carrier in ML with Data Science
+03/06/2019, 10:39 pm - +91 99240 26836: I am agree with this
+03/06/2019, 10:41 pm - Rakesh ML: I will tell wait
+03/06/2019, 10:41 pm - Rakesh ML: Interested only one
+03/06/2019, 10:42 pm - +91 77089 20801: @guys-  I don't have any real world exp in ml, since yu guys have exp in ml, can yu share  complete topics and areas which need to be focused on ml based on your exp
+03/06/2019, 10:42 pm - +91 94810 71831: How many already know coding ?
+03/06/2019, 10:43 pm - +91 94810 71831: I mean DL/DS/ML whatever you are into
+03/06/2019, 10:43 pm - +91 86046 49926: I know coding🤚🏻🤚🏻
+03/06/2019, 10:43 pm - +91 86046 49926: DL basics
+03/06/2019, 10:43 pm - +91 94810 71831: So let’s not waste all time in teaching coding
+03/06/2019, 10:43 pm - Rakesh ML: I think so , all.
+None of them want to learn python.
+All are jumping
+03/06/2019, 10:44 pm - Rakesh ML: I will guide only , based on people interested
+03/06/2019, 10:44 pm - +91 99240 26836: Python I know but not in detail...but like pandas, numpy that thing I know
+03/06/2019, 10:44 pm - +91 94810 71831: Let them do what they want to, let’s chart a plan first . It’s upto people to catch up
+03/06/2019, 10:45 pm - +91 77089 20801: I know python and R , but my coding skill is basic, it would be good if start from scratch
+03/06/2019, 10:45 pm - +91 94810 71831: Let’s do this 
+1) 1-2 puzzles a day
+2) one algorithm per week
+3) one topic per day- that can be stats, probability , algebra or whatever
+03/06/2019, 10:45 pm - Rakesh ML: They will be learning parallel both
+03/06/2019, 10:46 pm - Rakesh ML: We shall do it
+03/06/2019, 10:46 pm - +91 86046 49926: This is good
+03/06/2019, 10:46 pm - +91 99240 26836: 👆
+03/06/2019, 10:46 pm - +91 94810 71831: People will do coding if they want to learn on their own ... if any doubts they can approach others
+03/06/2019, 10:47 pm - +91 94810 71831: My motive is to have complete coverage of topics in the next 2 months so that all of us can attend interviews with confidence
+03/06/2019, 10:47 pm - +91 94810 71831: What say ?
+03/06/2019, 10:48 pm - +91 86046 49926: That would be great. Then we can have enough time for interview preparation and test our skills.
+03/06/2019, 10:48 pm - +91 94810 71831: If you guys want to add anything more do let me know
+03/06/2019, 10:48 pm - +91 94810 71831: Yup . We are a collaborative learning group. Some topics might sound trivial for some but we much touch up all areas
+03/06/2019, 10:49 pm - +91 94810 71831: How about others? Can I get a heads up from others ?
+03/06/2019, 10:49 pm - +91 98865 93396: 👍
+03/06/2019, 10:50 pm - +91 94818 87872: Nice one☺
+03/06/2019, 10:50 pm - +91 77089 20801: Ready to learn new topics and ideas.
+03/06/2019, 10:50 pm - +91 94810 71831: First few weeks may sound very trivial but it will be a revision for all
+03/06/2019, 10:55 pm - +91 81061 58889: 👌
+03/06/2019, 10:57 pm - +91 94818 87872: And we can may be discuss all relevant interview questions topic wise so that every week we will be a little equipped
+03/06/2019, 10:59 pm - +91 94810 71831: Yeah ... that will be nice
+03/06/2019, 11:13 pm - Rakesh ML: I will start to manage for people interested
+03/06/2019, 11:29 pm - +91 98425 75041 joined using this group's invite link
+03/06/2019, 11:18 pm - Rakesh ML: I know top level interviews questions.
+
+
+That questions for interview purpose and learn python from scratch and improve coding knowledge and improve logical thinking.
+
+How many people are ready?
+03/06/2019, 11:19 pm - Rakesh ML: Other people, I will implement for people interested
+03/06/2019, 11:19 pm - +91 75062 48026: Am in
+03/06/2019, 11:19 pm - +91 94810 71831: Me
+03/06/2019, 11:19 pm - +91 84470 19222: Ready
+03/06/2019, 11:19 pm - +91 98865 93396: Ready
+03/06/2019, 11:22 pm - +91 76961 18524: Ready
+03/06/2019, 11:22 pm - +91 81061 58889: ✌🏻
+03/06/2019, 11:23 pm - Rakesh ML: Who want to start implementation directly?
+
+Select this
+03/06/2019, 11:25 pm - +91 79778 47165: Mee
+03/06/2019, 11:25 pm - +91 76961 18524: Interested
+03/06/2019, 11:26 pm - +91 94810 71831: Means ?
+03/06/2019, 11:27 pm - +91 94810 71831: What implementation ?
+03/06/2019, 11:27 pm - Rakesh ML: Anyone want to implement dataset directly
+03/06/2019, 11:27 pm - Rakesh ML: DS , ML , DL
+03/06/2019, 11:28 pm - Rakesh ML: https://github.com/RakeshKumar045/MLGroupPractice/invitations
+03/06/2019, 11:28 pm - +91 99865 94131: Me
+03/06/2019, 11:28 pm - +91 99865 94131: Ready
+03/06/2019, 11:29 pm - +91 94810 71831: I’m also ready
+03/06/2019, 11:29 pm - +91 98865 93396: 👍
+03/06/2019, 11:30 pm - Rakesh ML: only 1 ?
+03/06/2019, 11:30 pm - Rakesh ML: 8 peoples want to learn python and interview question and improve coding
+03/06/2019, 11:31 pm - +91 94810 71831: I responded already !
+03/06/2019, 11:31 pm - Rakesh ML: 1 people is interested for implement dataset directly
+03/06/2019, 11:31 pm - Rakesh ML: nishant is ready for both
+03/06/2019, 11:32 pm - +91 94810 71831: Even I am interested @918951101651
+03/06/2019, 11:32 pm - Rakesh ML: only 1
+03/06/2019, 11:32 pm - +91 88006 47711: I want to learn python and also prepare for interview questions
+03/06/2019, 11:32 pm - Rakesh ML: ok
+03/06/2019, 11:33 pm - +91 94810 71831: Meant interview, python and improvisation all !
+03/06/2019, 11:39 pm - +91 79778 47165: This message was deleted
+03/06/2019, 11:46 pm - +91 97908 47724: Hi I am Mukunthan. I have 8 yrs of exp in software automation testing. With regards to AI, I know some basics about ML and have worked with Alexa skills.
+03/06/2019, 11:47 pm - +91 97908 47724: I'm in for implementation
+03/06/2019, 11:48 pm - +91 80720 46551: Myself
+04/06/2019, 12:04 am - +91 99922 18136: Hi
+My name is Mohit.  I am working as SQL developer. Python basics are very much cleared to me. 
+I am interested in ML.
+04/06/2019, 12:11 am - Rakesh ML: Python : 
+1) Reverse String
+I/p : rakesh kumar   o/p : ramuk hsekar
+i/p : deep  learn o/p : nrael peed
+
+2) Reverse String
+I/p : rakesh kumar   o/p : hsekar ramuk
+i/p : deep  learn o/p : peed nrael
+
+
+3) Sorting ascending a number
+I/p : [3,9,2,5,90,3,2]  o/p : [2,2,3,3,5,9,90]
+i/p : [4,9,3,5,0,9,4] o/p : [0,3,4,4,5,9,9]
+
+
+
+
+4) Sorting descending a number
+I/p : [3,9,2,5,90,3,2]  o/p : [2,2,3,3,5,9,90]
+i/p : [4,9,3,5,0,9,4] o/p : [0,3,4,4,5,9,9]
+
+
+5) Print 2nd smallest number
+I/p : [3,9,2,5,90,3,2]  o/p : 2
+i/p : [9,3,5,9,4] o/p : 3
+
+
+6) Print 2nd largest number
+I/p : [3,9,2,5,90,3,80,81,2]  o/p : 81
+i/p : [14,9,3,5,15,9,4] o/p : 14
+
+
+7) remove duplicate number
+I/p : [1,9,2,3,4,6,8,1,2,3,6]  o/p :[1,9,2,3,4,6]
+i/p : [5,4,6,1,1,1,2,1,2,3] o/p : [5,4,6,1,2,3]
+
+
+8) revesre the list
+I/p : ["b" ,"a","c","d"]   o/p :["d" ,"c","a","b"] 
+i/p : ["a" ,"a","r","d"]  o/p : ["d" ,"r","a","a"] 
+
+
+9) remove duplicate from the list
+I/p : ["b" ,"a","c","d","a","c","k"]   o/p :["b" ,"a","c","d","k"]
+i/p : ["a" ,"a","r","d","r"]  o/p :  ["a" ,"r","d"] 
+
+10) Print the String in order
+I/p : a2bMA@3H1h   o/p : AHMabh123@
+i/p : 1D@DA1ab21ba . o/p : ADDaabb112@
+
+11) Print the String in order and remove duplicated 
+I/p : aB3c1D$A9A1$d3   o/p : ABDacd139$
+i/p : Lg@32aH23 o/p : HLag23@
+04/06/2019, 12:12 am - Rakesh ML: Guys , 
+Python learn from sracth and Python interview question and improve coding
+04/06/2019, 12:12 am - +91 79778 47165: Hi my name is sunny Dsouza. I'm a 3rd year Btech CSE student from Mumbai University. Right now my main focus is on Deep learning, reinforcement learning and Gans . I've created few projects on Deep learning. My current research is into generative adversarial networks
+04/06/2019, 12:15 am - Rakesh ML: Complete any 6 question this sunday(9th june)
+and left 5 questions next sunday(16th june)
+order does not matter.
+04/06/2019, 12:16 am - +91 98865 93396: Ok
+04/06/2019, 12:16 am - Rakesh ML: anyone is having any doubts.
+Let me know.
+
+Plz do not use any library or built function.
+04/06/2019, 12:17 am - Rakesh ML: Let see , how many peoples will be complete
+04/06/2019, 12:23 am - Rakesh ML: who have done pycharm and github setup in windows ?
+someone is getting
+04/06/2019, 12:23 am - Rakesh ML: issues
+04/06/2019, 12:27 am - +91 81061 58889: Me
+04/06/2019, 12:29 am - Rakesh ML: plz guide her @918800647711
+04/06/2019, 12:29 am - Rakesh ML: ping her persoanlly , resolve issue now
+04/06/2019, 12:41 am - Rakesh ML: Data Science and Machine Learning and Deep Learning :
+
+1) find the mean from list or value
+
+2) find the median from list or value
+
+3) find the mode from list or value
+
+
+4) find the variance from list or value
+
+
+5) find the co-variance from list_x and  list_y
+
+
+6) find the normalization from list
+
+
+
+7) find the z-score or z-value or z-standard from list
+04/06/2019, 12:42 am - Rakesh ML: Deadline sunday (9th june)
+Plz do not use any library or built function
+04/06/2019, 12:43 am - Rakesh ML: All must be create generic function for all questions
+04/06/2019, 12:44 am - Rakesh ML: it is DS , ML , DL interview questions also
+04/06/2019, 12:44 am - Rakesh ML: anyone have any doubts.
+04/06/2019, 12:45 am - Rakesh ML: Guys 
+Waht do you want to do first :
+1)Python 
+2)Data Science , ML, DL
+
+Plz let me know.
+04/06/2019, 12:45 am - Rakesh ML: This message was deleted
+04/06/2019, 12:49 am - Rakesh ML: answere here only, so i can track people interest
+
+after that , we shall implement dataset problem.
+
+Anyone want to give suggestion or feedback or any modification (Plz tell).
+
+in group, there are 26 people, 
+
+vote for problem statement 1 or 2.
+04/06/2019, 12:50 am - +91 84470 19222: Python first
+04/06/2019, 12:51 am - +91 98865 93396: Python..
+04/06/2019, 12:52 am - Rakesh ML: problem statement 1 Deadline(6 questions 9th june and 5 questions 16th june) and complete the problem statement 16th june on sunday
+
+
+problem statement 2 Deadline(all 7 questions 9th june only)
+
+
+If anyone want to do both problem statement , it's very good.(Deadline 16th june)
+04/06/2019, 12:53 am - Rakesh ML: if anyone complete both problem , they can clear hackthon also.
+04/06/2019, 12:54 am - Rakesh ML: All the best for all
+04/06/2019, 12:54 am - Rakesh ML: 👍
+04/06/2019, 12:54 am - Rakesh ML: 👍
+04/06/2019, 12:59 am - +91 99865 94131: Python, sure
+04/06/2019, 2:29 am - +91 96035 94976: I am in
+04/06/2019, 2:31 am - +91 96035 94976: Ready
+04/06/2019, 6:53 am - +91 94498 53590: I am Sunil Jacob with 15 years of experience
+Have a PG in Big Data and Machine Learning
+Currently working as DevOps architect
+04/06/2019, 8:02 am - Raja: Hi team,
+I am Raja, part of emerging technologies team. Have little experience with data science.
+04/06/2019, 8:04 am - +91 99240 26836: Ready
+04/06/2019, 8:04 am - +91 99240 26836: Ready too
+04/06/2019, 8:12 am - +91 77089 20801: 👍
+04/06/2019, 8:22 am - +91 96035 94976: I am srinivas dasu with 4 years experience as SDET, have work experience in python, deep learning (intermediate) and interested to do data science project and ml
+04/06/2019, 8:26 am - +91 94818 87872: Thanks Rakesh..will start off with this
+04/06/2019, 8:42 am - +91 96114 37147 joined using this group's invite link
+04/06/2019, 9:05 am - +91 86046 49926: I am ready for both
+04/06/2019, 9:07 am - +91 94498 53590: I am ready
+04/06/2019, 9:10 am - Rakesh ML: Tell complete details
+04/06/2019, 9:13 am - Rakesh ML: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Srinivas
+6)Dhrumil
+7)Sneha
+
+
+Data Science , Machine Learning and Deep Learning :
+1)sudhakar
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+04/06/2019, 9:14 am - Rakesh ML: Guys , i got 10 peoples interested out of 26.
+04/06/2019, 9:15 am - +91 96035 94976: Hi Rakesh, I opt for both and will do both assignments
+04/06/2019, 9:15 am - Rakesh ML: anyone want to modification , let me know
+04/06/2019, 9:16 am - +91 96114 37147: Even me too.i would like to opt for both
+04/06/2019, 9:16 am - Rakesh ML: you have to be done
+04/06/2019, 9:16 am - +91 77089 20801: @918951101651 - iam interested in python ml and datascience
+04/06/2019, 9:17 am - +91 96035 94976: Sure
+04/06/2019, 9:17 am - +91 79778 47165: Both
+04/06/2019, 9:17 am - +91 85318 35994: I am interested in both
+04/06/2019, 9:18 am - Rakesh ML: Guys , it is not easy , i have selected top level question , who will complete both , i will give security to clear any types of questions in interviews.
+04/06/2019, 9:19 am - Raja: I would like to go for both
+04/06/2019, 9:20 am - +91 88006 47711: I want to do both ML and python
+04/06/2019, 9:22 am - Rakesh ML: once you Guys will be done , i will add few more top level interview question and improve python coding level.
+04/06/2019, 9:25 am - Rakesh ML: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki
+8)Raja
+9)Priyanka
+04/06/2019, 9:28 am - +91 75062 48026: I opt for both
+04/06/2019, 9:29 am - +91 87926 87274: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki
+8)Raja
+9)Priyanka
+10)Vimal
+04/06/2019, 9:32 am - Rakesh ML: Deadline:
+
+Pyhton (6 questions : 9th june and 5 questions : 16th june) complete all questions on 16th june
+
+DS, ML, DL (7 questions : 9th june)
+
+Both(6 questions python and 3 questions DS, ML, DL : 9th june and 4 questions Python and 3 questions DS, ML, DL : 16th june) complete all questions on 16th june
+Both : (9 question : 9th june and 9 question : 16th june)
+04/06/2019, 9:33 am - Rakesh ML: thank you.
+Guys you can edit yourself
+04/06/2019, 9:34 am - +91 97908 47724: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki
+8)Raja
+9)Priyanka
+10)Vimal
+11) Mukunthan
+04/06/2019, 9:34 am - Rakesh ML: How many people will complete before deadline ?
+let's see
+04/06/2019, 9:37 am - Rakesh ML: tq
+04/06/2019, 9:39 am - +91 75062 48026: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+04/06/2019, 9:40 am - +91 94810 71831: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+04/06/2019, 9:41 am - +91 91775 05888: Python - sitaram
+04/06/2019, 9:42 am - Rakesh ML: Any doubts for any question.
+Do not use any library and built function.
+Write Generic function(
+Ex:
+
+def secondSmallestNumber(listValue):
+      "write logic here "
+       return secondSmallestNo
+
+value = [5,9,10,2,2,3,4]
+print(secondSmallestNumber(lvalue))
+output = 3
+)
+04/06/2019, 9:42 am - Rakesh ML: edit and add yourself
+04/06/2019, 9:50 am - +91 94498 53590: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+04/06/2019, 9:51 am - +91 98425 75041: Okay👍🏼
+04/06/2019, 9:52 am - +91 80720 46551: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki 
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+14) Vinoth
+04/06/2019, 9:53 am - Rakesh ML: How many people have started to implement question?
+04/06/2019, 9:57 am - Rakesh ML: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+7)Sitaram
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki 
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+14) Vinoth
+04/06/2019, 10:15 am - +91 98425 75041: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki 
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+14) Vinoth
+15) Srirengan
+04/06/2019, 10:22 am - +91 91777 54864 joined using this group's invite link
+04/06/2019, 10:33 am - +91 76961 18524: [04/06, 9:57 AM] Rajesh Ai Group: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+7)Sitaram
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki 
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+14) Vinoth
+[04/06, 10:15 AM] +91 98425 75041: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+6)Sneha
+
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki 
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+14) Vinoth
+15) Srirengan
+16) Vinay
+04/06/2019, 10:44 am - Rakesh ML: Who will complete one program , then commit and push your local branch.
+
+
+Let me know
+04/06/2019, 10:53 am - +91 94818 87872: I will also opt for both Rakesh
+04/06/2019, 10:59 am - +91 94818 87872: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki 
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+14) Vinoth
+15) Srirengan
+16) Vinay
+17) Sneha
+04/06/2019, 11:09 am - Raja: Shall we put this list and list of questions in sheets
+04/06/2019, 11:10 am - +91 97908 47724: This message was deleted
+04/06/2019, 11:11 am - +91 97908 47724: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki 
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+14) Vinoth
+15) Srirengan
+16) Vinay
+17) Sneha
+18) Mukunthan
+04/06/2019, 2:22 pm - +91 96035 94976: Hi Rakesh, I have completed few programs and pushed the file have a look
+04/06/2019, 2:41 pm - Rakesh ML: I have seen your program, 
+It's very good .
+You can modify something.
+Reverse string don't use built function.
+
+
+Find 2nd smallest or largest.
+You can check error condition.
+If you have only one value in list.. it will come error.
+
+Please give standard function name like.
+getSecondSmallestNumber
+04/06/2019, 2:43 pm - +91 96035 94976: Okay Rakesh, thanks for the feedback, I will do necessary changes
+04/06/2019, 2:43 pm - +91 88676 89114: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+5)Dhrumil
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki 
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+14) Vinoth
+15) Srirengan
+16) Vinay
+17) Sneha
+18) Mukunthan
+19 nikita
+04/06/2019, 2:44 pm - +91 88676 89114: I will do , but not today have lots of office work
+04/06/2019, 3:00 pm - Rakesh ML: Please check python programming documents.
+You can get idea.
+
+You have completed almost 4o percentage.
+
+You can do sorting different types (bubble, selection, insertion, merge, quick sort).
+
+Anyone want to learn interview sorting.
+Try to do with merge sorting.
+Merge sorting is better than all sorting.
+04/06/2019, 3:02 pm - Rakesh ML: 2 peoples have implemented few problems.
+04/06/2019, 3:15 pm - +91 99240 26836: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki 
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+14) Vinoth
+15) Srirengan
+16) Vinay
+17) Sneha
+18) Mukunthan
+19 nikita
+20) Dhrumil
+04/06/2019, 3:18 pm - Rakesh ML: Ok
+04/06/2019, 3:26 pm - +91 96035 94976: Pycharm suggesting to give function names in small characters only
+04/06/2019, 3:36 pm - Rakesh ML: Yes .
+Sorry.
+Java and python documents are different.
+04/06/2019, 3:58 pm - +91 96035 94976: Hi Rakesh, for 11th question sorting is based on ascii characters? If yes then output provided by you is wrong
+04/06/2019, 4:00 pm - +91 94810 71831: @918951101651 i have pushed my code. My branch name is meghanarao_001
+04/06/2019, 4:02 pm - +91 94810 71831: Yes the ASCII code for numeric is lesser
+04/06/2019, 4:04 pm - Rakesh ML: Print first capital later then small then number then special characters
+04/06/2019, 4:04 pm - Rakesh ML: Ok
+04/06/2019, 4:05 pm - Rakesh ML: See input and output.
+Try to correct previous problem
+You have used built function
+04/06/2019, 4:23 pm - Rakesh ML: Yes ,
+Guys must be know ASCII value
+04/06/2019, 4:39 pm - +91 98717 63736: Please count me in for both..
+04/06/2019, 4:42 pm - Rakesh ML: Edit yourselg
+04/06/2019, 4:43 pm - Rakesh ML: ASCII Value :
+65 - 90 (A-Z)
+97-122(a-z)
+48-57(0-9)
+04/06/2019, 5:13 pm - +91 96035 94976: Hi Rakesh, I have pushed all python programs can you have a look
+04/06/2019, 5:57 pm - Rakesh ML: Ok
+04/06/2019, 10:08 pm - +91 94031 40418 joined using this group's invite link
+04/06/2019, 10:09 pm - Rakesh ML: Guys any update?
+04/06/2019, 10:10 pm - +91 94810 71831: No power here . So couldnt do anything 🙈
+04/06/2019, 10:10 pm - Rakesh ML: 😷
+04/06/2019, 10:26 pm - +91 99922 18136: Python
+04/06/2019, 10:28 pm - +91 99922 18136: But yeah I am interested in Python and ML
+But I have no knowledge of ML
+04/06/2019, 10:34 pm - +91 94818 87872: Doing
+04/06/2019, 10:35 pm - +91 99922 18136: Python : 
+1)Kiran
+2)Pavan
+3)viditya
+4)Nishant
+
+Data Science , Machine Learning and Deep Learning :
+
+
+
+Both (Python and Data Science , Machine Learning and Deep Learning ) :
+1)Rakesh
+2)Arpan
+3)Srinivas
+4)sudhakar
+5)Manoj
+6)SD
+7)Elakki 
+8)Raja
+9)Priyanka
+10)Vimal
+11)Ashish
+12) Meghana
+13) Sunil Jacob
+14) Vinoth
+15) Srirengan
+16) Vinay
+17) Sneha
+18) Mukunthan
+19 nikita
+20) Dhrumil
+21) Mohit
+04/06/2019, 10:36 pm - Rakesh ML: ok
+04/06/2019, 10:42 pm - +91 75062 48026: Solved 1st program
+04/06/2019, 10:53 pm - Rakesh ML: Good
+04/06/2019, 10:53 pm - Rakesh ML: Go to next
+04/06/2019, 11:01 pm - +91 99240 26836: Solved 3 python programs
+04/06/2019, 11:04 pm - +91 96035 94976: Everything fine or any modifications need to be done
+04/06/2019, 11:19 pm - Rakesh ML: Don't use built function.
+Example Len() is also built function
+04/06/2019, 11:19 pm - Rakesh ML: It's very easy to find the length.
+04/06/2019, 11:42 pm - +91 96035 94976: Okay
+05/06/2019, 12:28 am - Rakesh ML: I tried to create branch but not able to publish??
+
+anyone tell me , what is error
+05/06/2019, 12:28 am - Rakesh ML: windows laptops
+05/06/2019, 12:29 am - Rakesh ML: ???
+05/06/2019, 12:29 am - Rakesh ML: anyone tell me?
+05/06/2019, 12:29 am - Rakesh ML: <Media omitted>
+05/06/2019, 4:23 am - +91 99922 18136: @918951101651 I start working on Python problems 
+But I am still not able to configure git on Windows...... Issue is due to. Net framework 
+
+For now I dual boot my system with Linux lubuntu and will try to configure there
+05/06/2019, 8:46 am - Rakesh ML: I have changed GitHub configuration settings.
+
+I will check that issue.
+05/06/2019, 8:52 am - +91 77089 20801: 👍
+05/06/2019, 9:07 am - +91 88676 89114: Created the this file sorting reverse findsmallestlargestnumber
+05/06/2019, 9:07 am - +91 88676 89114: Under coding practise
+05/06/2019, 9:21 am - +91 88676 89114: https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account
+05/06/2019, 9:21 am - +91 88676 89114: hi , those who have permission issue , check ssh key is there in there git account
+05/06/2019, 9:22 am - +91 88676 89114: step by step is mentioned in the document , if any issue face ping ...
+05/06/2019, 9:25 am - Rakesh ML: Hi guys.
+Who is getting permission denied issue.
+
+Permission denied issue bcoz of ssh key.
+
+You have to generate ssh key and go to browser GitHub sitting, you can add ssh key in GitHub sitting ssh options.
+It will work
+05/06/2019, 9:26 am - Rakesh ML: All have to do commit and push code on GitHub.
+05/06/2019, 9:35 am - +91 88676 89114: Added removeDUPLICATE
+05/06/2019, 9:35 am - Rakesh ML: Ok
+05/06/2019, 9:35 am - Rakesh ML: 👍
+05/06/2019, 9:36 am - Rakesh ML: Guys must have add ssh key in github.
+Check all people
+05/06/2019, 10:27 am - +91 88676 89114: Added mean median mode standard deviation n variance in MeanMedianMode file
+05/06/2019, 10:27 am - +91 88676 89114: Working on covariance
+05/06/2019, 10:28 am - Rakesh ML: Ok
+05/06/2019, 10:28 am - Rakesh ML: Anyone is getting ssh key issue.
+Ask to Nikita.
+She will guide
+05/06/2019, 10:29 am - +91 88676 89114: Yes please ping now i can help
+05/06/2019, 10:31 am - +91 88676 89114: After afternoon will not be available going relative place , please ask now
+05/06/2019, 11:04 am - +91 77089 20801: @here- tried to make changes in my git repository iam not getting any errors,tried to create new branch able to create without any issues and able to delete is anything else need to be checked
+05/06/2019, 11:05 am - +91 77089 20801: Is there any ssh keys need to be generated under repository
+05/06/2019, 11:05 am - +91 77089 20801: I have cloned my repository using https not ssh
+05/06/2019, 11:06 am - +91 88676 89114: Not under repo , in your account
+05/06/2019, 11:06 am - +91 77089 20801: How to activate ssh in my repository.
+05/06/2019, 11:06 am - +91 88676 89114: Please read document
+05/06/2019, 11:06 am - +91 88676 89114: You have not gone through
+05/06/2019, 11:06 am - +91 88676 89114: Do ssh clone
+05/06/2019, 11:07 am - +91 88676 89114: N ssh is not for repo , its for account , have to do one tome set up only to push your code
+05/06/2019, 11:07 am - +91 88676 89114: You have not read the document properly it seems
+05/06/2019, 11:08 am - +91 77089 20801: Yes gone through, I will check
+05/06/2019, 11:08 am - +91 88676 89114: Ssh need to do only one time , not in all repository
+05/06/2019, 11:08 am - +91 88676 89114: Okay
+05/06/2019, 11:09 am - +91 88676 89114: Its one time set up
+05/06/2019, 11:11 am - +91 77089 20801: Ok
+05/06/2019, 11:17 am - +91 94810 71831: Guys which is the best resource to start with deep learning ?
+05/06/2019, 12:05 pm - +91 86046 49926: Andrew ng course on coursera is best for deep learning
+05/06/2019, 12:10 pm - +91 77089 20801: https://www.codingame.com/playgrounds/9487/deep-learning-from-scratch---theory-and-implementation/computational-graphs
+
+https://blog.vivekpanyam.com/deep-learning-made-simple-part-1/
+
+http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/
+
+To download dataset use:
+"Deep Learning A-Z: Download Practice Datasets - SuperDataScience Pages - Big Data | Analytics Careers | Mentors | Success" https://www.superdatascience.com/pages/deep-learning
+
+
+Refer this links it might be helpful
+05/06/2019, 12:12 pm - +91 88676 89114: uploaded covariancecorelation and normilization
+05/06/2019, 12:12 pm - +91 88676 89114: z-score or z-value or z-standard from list this is left
+05/06/2019, 12:14 pm - +91 88676 89114: @918951101651  hi rakesh z score is same standarization ?
+05/06/2019, 12:14 pm - +91 88676 89114: right?
+05/06/2019, 12:15 pm - +91 88676 89114: @918951101651  also add new question to practice
+05/06/2019, 12:19 pm - +91 88676 89114: @918951101651  thanks bro , to take this initiative to start practice !! it helps ...
+05/06/2019, 12:57 pm - Rakesh ML: Ok
+05/06/2019, 12:58 pm - Rakesh ML: Yes
+05/06/2019, 12:58 pm - Rakesh ML: Range-3 to+3
+05/06/2019, 12:58 pm - Rakesh ML: Is it🤔🤔
+05/06/2019, 12:59 pm - Rakesh ML: Most welcome dude
+05/06/2019, 1:00 pm - Rakesh ML: Guys today I will busy.
+I will have client demo around 7 pm.
+05/06/2019, 1:09 pm - +91 88676 89114: Yes please when u have time
+05/06/2019, 1:10 pm - +91 88676 89114: OK i will do that then
+05/06/2019, 3:13 pm - +91 94810 71831: I have pushed some code plz check
+05/06/2019, 3:25 pm - +91 94498 53590: @918951101651 I have added code to my repo
+05/06/2019, 3:25 pm - +91 94498 53590: Sunil_ml is the repo name
+05/06/2019, 3:25 pm - +91 94498 53590: Sort of numbers in ascending and descending
+05/06/2019, 8:19 pm - +91 86046 49926: @918951101651 i have pushed the code for all these questions to github. Please review it.
+05/06/2019, 8:20 pm - +91 86046 49926: I will start working on this after brushing up my skills on stats. Most probably by friday.
+05/06/2019, 9:13 pm - Rakesh ML: Guys.
+Who is getting permission denied issue?
+05/06/2019, 9:14 pm - Rakesh ML: I got 4 branch upade(Nikita,  Sunny, Sunil , Arpan).
+05/06/2019, 9:15 pm - +91 94810 71831: Even I updated
+05/06/2019, 9:16 pm - Rakesh ML: Arpan i saw your sorting logic, it's very nice , i could not check line by line code.
+I will check everyone code logic line by line on saturday or sunday
+05/06/2019, 9:16 pm - Rakesh ML: yesterday right?
+05/06/2019, 9:16 pm - +91 94810 71831: Today afternoon
+05/06/2019, 9:17 pm - Rakesh ML: is it your meghanarao2911 branch name?
+05/06/2019, 9:17 pm - +91 94818 87872: Am getting an error: str object does not support item assignment...wat to do pls ?
+05/06/2019, 9:17 pm - Rakesh ML: I did not get yet
+05/06/2019, 9:17 pm - +91 94810 71831: My branch name is meghanarao_001
+05/06/2019, 9:18 pm - Rakesh ML: you can check github browser
+05/06/2019, 9:18 pm - +91 94810 71831: I got a message also push successful
+05/06/2019, 9:19 pm - Rakesh ML: i checked , i did not get yet , any update from your side
+05/06/2019, 9:20 pm - Rakesh ML: modify something , commit and push do again
+05/06/2019, 9:20 pm - Rakesh ML: might be ,you had done only commit
+05/06/2019, 9:20 pm - +91 94810 71831: I pushed . Will check in sometime
+05/06/2019, 9:21 pm - Rakesh ML: are you able to commit and push code on github?
+05/06/2019, 9:21 pm - Rakesh ML: ok
+05/06/2019, 9:26 pm - +91 94818 87872: Yes ..just now comitted and pushing
+05/06/2019, 9:28 pm - +91 94818 87872: Push successful
+05/06/2019, 9:30 pm - Rakesh ML: what is your branch name?
+05/06/2019, 9:37 pm - +91 86046 49926: Are you trying to modify the string, this error arises bcoz strings are immutable in python and you are trying to update it.
+05/06/2019, 10:12 pm - +91 94818 87872: Snehaa_Python and i have deleted my duplicate branch
+05/06/2019, 10:32 pm - Rakesh ML: ok
+05/06/2019, 10:43 pm - +91 94818 87872: I am trying for swap...its failing as error
+05/06/2019, 10:47 pm - Rakesh ML: Don't use c concept here
+05/06/2019, 11:11 pm - +91 94818 87872: Ok
+05/06/2019, 11:50 pm - +91 92141 41488 joined using this group's invite link
+06/06/2019, 12:19 am - Rakesh ML: Guys you have to use try and exception and catch for error case
+06/06/2019, 12:21 am - Rakesh ML: Many of people have used len() and append built function , without len and append function , you can try to manually.
+06/06/2019, 2:01 am - +91 78377 71731 joined using this group's invite link
+06/06/2019, 6:51 am - +91 99702 80429 joined using this group's invite link
+06/06/2019, 9:03 am - +91 90514 97112 joined using this group's invite link
+06/06/2019, 7:47 pm - +91 86046 49926: I have override len method and pushed it to git
+06/06/2019, 8:10 pm - Rakesh ML: ok
+07/06/2019, 6:46 pm - Rakesh ML: Guys
+Only 7 peoples have completed almost.
+
+
+Other peoples are doing or not or thinking?
+07/06/2019, 6:49 pm - +91 91777 54864: Rakesh will do it Tmr and update you...!!
+07/06/2019, 6:49 pm - +91 94810 71831: I’m held up will complete by Sunday evening .
+07/06/2019, 6:51 pm - Rakesh ML: I will review code on Sunday night.
+
+First deadline is Sunday.
+I will check after that at a time to all
+07/06/2019, 6:51 pm - +91 99240 26836: Will share it tomorrow
+07/06/2019, 6:52 pm - Rakesh ML: Share in group.
+07/06/2019, 6:57 pm - +91 99240 26836: Sure
+07/06/2019, 7:07 pm - +91 96114 37147: Hi Rakesh ,would  complete by tommorow
+07/06/2019, 7:12 pm - Rakesh ML: End of Sunday.
+ First 6 python programming and others will complete before next end of Sunday
+07/06/2019, 7:13 pm - +91 92141 41488: Thanks Rakesh . I will do it
+07/06/2019, 7:15 pm - +91 77089 20801: Will share the code tommorow
+07/06/2019, 7:20 pm - Rakesh ML: Please guys.
+You can write questions number and also write input and output.
+
+So I can easily track.
+
+
+Example python 2 string Reverse.
+Input: abc def output : cba fed
+07/06/2019, 9:06 pm - +91 70425 90263 joined using this group's invite link
+08/06/2019, 1:02 pm - +91 88303 22917 joined using this group's invite link
+08/06/2019, 1:43 pm - +91 88676 89114: Yeah next time will do like this , that's good idea
+08/06/2019, 2:05 pm - Rakesh ML: 👍
+08/06/2019, 8:54 pm - +91 75062 48026 left
+08/06/2019, 11:43 pm - +91 88676 89114: https://github.com/nikitabanthiya/Seaborn , I have created please comment on it
+09/06/2019, 12:05 am - Rakesh ML: 👍
+09/06/2019, 3:33 am - +91 99922 18136: Rakesh I have completed first 6 programs 
+
+So now should I make my own repository over git hub and upload the files there??
+09/06/2019, 8:36 am - Rakesh ML: Directory already there on GitHub.
+Commit and push the code.
+09/06/2019, 12:40 pm - +91 99922 18136: In which directory 
+There are about 34 branches in ML GROUP PRACTICE
+09/06/2019, 1:08 pm - +91 88676 89114: https://github.com/nikitabanthiya/NaturalLanguageProcessing-NLP  , I have created basic of NLP theory , practical and one simple chat bot of AWS ,please give review on it
+09/06/2019, 1:13 pm - +91 94498 53590: Good obe
+09/06/2019, 1:13 pm - +91 94498 53590: *one
+09/06/2019, 1:13 pm - +91 88676 89114: Thanks sunil
+09/06/2019, 8:05 pm - +91 77089 20801: @here-can anyone share me good resources on statistical  modelling
+09/06/2019, 8:06 pm - Rakesh ML: How many people have completed?
+
+Push the code on GitHub.
+I will review all 1by by
+09/06/2019, 8:07 pm - +91 94810 71831: I have 2 more left
+09/06/2019, 8:08 pm - Rakesh ML: Ok
+09/06/2019, 8:12 pm - +91 86046 49926: Except stats questions i have done all, couldn't get time for them
+09/06/2019, 8:18 pm - Rakesh ML: Ok
+Cool
+09/06/2019, 8:26 pm - +91 99922 18136: I am done
+And now I am trying to push the code
+09/06/2019, 10:28 pm - +91 99922 18136: I am not able to push the code directly to. My branch
+..... 
+Can someone tell me how to push the code using pycharm to the branch
+09/06/2019, 10:28 pm - +91 88676 89114: I do by git command
+09/06/2019, 10:29 pm - +91 88676 89114: Not by pycharm
+09/06/2019, 10:29 pm - +91 90514 97112: Some are left
+09/06/2019, 10:30 pm - +91 99922 18136: I am new to github
+
+So don't have much knowledge 
+
+I installed git tool and github
+09/06/2019, 10:30 pm - +91 96035 94976: What is the error you are getting
+09/06/2019, 10:31 pm - +91 99922 18136: Not getting any error 
+Initially I am trying to push via pycharm
+09/06/2019, 10:31 pm - +91 99922 18136: And it uploads the file directly to repository 
+Not to the branch
+09/06/2019, 10:31 pm - +91 96035 94976: Make sure you are on your branch and then select the file you want to push, right click, select git, push then it will ask user name, give it and give proper message and then select commit and push drop down
+09/06/2019, 10:32 pm - +91 94810 71831: Check if you are in your branch first
+09/06/2019, 10:32 pm - +91 94810 71831: And the push. I made that mistake too
+09/06/2019, 10:33 pm - +91 94818 87872: I have done 5 python questions and pushed code
+09/06/2019, 11:31 pm - +91 92141 41488: I am facing some network issue today so not able to push code today . I will push it tomorrow
+09/06/2019, 11:32 pm - +91 91775 05888: Done with 4 programs into git
+09/06/2019, 11:32 pm - +91 91775 05888: I have updated pycharm on my machine and it removed my git and other setup
+09/06/2019, 11:33 pm - +91 91775 05888: Did anyone updated pycharm online without impacting existing config?
+10/06/2019, 4:38 pm - +91 88676 89114: https://www.amazon.in/Hundred-Page-Machine-Learning-Book-ebook/dp/B07MGCNKXB?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERPMOfFgKatwRo1nnEgaRY1sojiLBRO8HAwfWscBS0SHRoCrUbw_wcB_k_&gclid=CjwKEAjw__fnBRCNpvH8iqy4xl4SJAC4XERPMOfFgKatwRo1nnEgaRY1sojiLBRO8HAwfWscBS0SHRoCrUbw_wcB
+10/06/2019, 4:38 pm - +91 88676 89114: Possible to get this book
+10/06/2019, 4:38 pm - +91 88676 89114: Anywhere downloaded
+10/06/2019, 4:38 pm - +91 88676 89114: ?
+10/06/2019, 4:50 pm - +91 79778 47165: <Media omitted>
+10/06/2019, 6:05 pm - +91 88676 89114: Thanks
+10/06/2019, 11:00 pm - +91 77089 20801: @918951101651 - pushed my python assignment code please check
+10/06/2019, 11:37 pm - Rakesh ML: Ok
+10/06/2019, 11:37 pm - Rakesh ML: I will review everyone code
+11/06/2019, 8:56 pm - +91 86046 49926: “The Recursion Trap.” by Arpan Srivastava https://link.medium.com/43ZcMWV5qX
+12/06/2019, 9:05 am - Rakesh ML: I will review everyone code and I will update end of day.
+12/06/2019, 9:15 am - +91 86046 49926: 👍🏻👍🏻
+12/06/2019, 3:54 pm - +91 99922 18136: Rakesh I am still not able to push the code 
+
+So for now I uploaded the Python files here - 
+https://github.com/p4pyro/Python-Practice/commits/master
+12/06/2019, 3:54 pm - +91 99922 18136: Please check code from there
+12/06/2019, 3:57 pm - Rakesh ML: I have checked 2 people code.
+I have been checking one by one
+13/06/2019, 2:15 am - Rakesh ML: 1) Srinivas : 
+A) You have implemented very well.
+B)Try to add "Try and Except and Finally" Concept , so your code will become more powerful
+C)Write MeaningFull variables name.
+
+2) Dhrumil:
+I did not get any file from you
+Why you had added rar file?
+
+3) Manoj:
+I did not get any update from you.
+
+4)Mukuthan:
+I did not get any update from you.
+
+5)Elakki:
+I got update only 3 program from you.
+Check Error condition?
+
+
+6)Meghana:
+I got update only 3 program from you.
+Check Error condition?
+
+
+7)SaiRahul:
+I did not get any update from you.
+
+8)Sitaram:
+I did not get any update from you.
+I am not getting , what do you want to do.
+Write File or Function name should be meaningful.
+
+
+9)Sneha:
+I got update only 3 program from you.
+Check Error condition?
+
+10)Vamsi :
+I did not get any update from you.
+
+11)Vidiya :
+You have added some file(Fibonacci series)
+I did not get any update from you.
+13/06/2019, 2:15 am - Rakesh ML: I have checked only few people.
+13/06/2019, 9:08 pm - +91 96035 94976: OK Rakesh, thanks for your review
+13/06/2019, 9:37 pm - Rakesh ML: 👍
+13/06/2019, 9:58 pm - +91 94818 87872: Thanks Rakesh..will fix
+13/06/2019, 10:07 pm - +91 99240 26836: Ok let me check otherwise tomorrow will upload all programs
+13/06/2019, 11:04 pm - +91 94810 71831: I will incorporate errors in the remaining programs
+14/06/2019, 12:31 am - +91 97908 47724: Rakesh. I currently pushing the files to the repo. I will let know once I have done all
+14/06/2019, 10:16 pm - +91 94810 71831: I have completed all the programs in the given exercise and pushed all of them. There will be multiple pushes from my side . Please check when free . As previously told, error checking hasn’t been added to this. Will do it as a separate exercise.
+14/06/2019, 10:24 pm - Rakesh ML: Ok
+15/06/2019, 10:41 pm - +91 77089 20801: @918951101651 - I have pushed my python code again please check
+16/06/2019, 6:03 am - +91 99922 18136: I have completed all the programs 
+But don't able to push
+Should I place the Python files 
+Here -  https://github.com/p4pyro/Python-Practice/commits/master
+16/06/2019, 1:56 pm - Rakesh ML added +91 74168 35767
+16/06/2019, 1:58 pm - Rakesh ML: Many people have used the third variable(temp) for the sorting problem.
+Without third variable guys can do it.
+16/06/2019, 2:02 pm - +91 86046 49926: Yes we can do that.
+16/06/2019, 2:28 pm - Rakesh ML: 1) Srinivas : 
+A) You have implemented very well.
+B)Try to add "Try and Except and Finally" Concept, so your code will become more powerful
+C)Write the MeaningFull variables name.
+
+2) Dhrumil:
+Completed Some question(Plz do not PDF file), you can implement in pycharm.
+Why you had added rar file?
+
+3) Manoj:
+I did not get any update from you.
+
+4)Mukuthan:
+Only some questions have completed.
+
+5)Elakki:
+I got the update only 3 programs from you.
+Check Error condition?
+
+
+6)Meghana:
+I got the update only 3 programs from you.
+Added GCD also
+Completed very well
+Check Error condition?
+
+
+7)Sri Rahul:
+I did not get any update from you.
+
+8)Sitaram:
+I did not get any update from you.
+I am not getting, what do you want to do.
+Write a File or Function name should be meaningful.
+
+
+9)Sneha:
+I got the update only 3 programs from you.
+Check Error condition?
+
+10)Vamsi :
+I did not get any update from you.
+
+11)Vidiya :
+You have added some file(Fibonacci series)
+I did not get any update from you.
+
+12) Vinay :
+Checked, it's good
+
+13) Arpan :
+Checked, it's good
+
+14)Ashish 
+I got only 1 update
+
+15)Kiran
+Done well
+Updated and not all questions
+
+16)Mohit
+Did not get yet any update
+
+17)Nikita
+Done with help built function.
+Not Completed all questions
+
+18)Nishant
+Completed all Question(Superb)
+Anyone check Nishant code,
+He had completed very well
+
+19)Balwant
+Did not complete a single question
+
+
+20)Pavan
+Did not complete a single question
+
+21)Prashant
+Completed All question used built function
+You can write a generic Function for all your problems.
+
+22)Shubham
+Did not complete a single question
+Added NLP Simple example.
+
+23)sunil
+only Added Sorting a single problem
+
+
+24)Sunny
+Did not complete a single question
+16/06/2019, 2:30 pm - +91 94810 71831: All the programs are there. Check Meghana_Challenge.py for other programs. GCD I didn’t push as it was for practice only . I am going through errors and exceptions. Will use them in the next exercise.
+16/06/2019, 2:30 pm - Rakesh ML: None of them had used Try, Except, Finally(Exception.)
+only 2 peoples have used error hadling
+2 peoples have completed without built function all problems.
+16/06/2019, 2:35 pm - Rakesh ML: If i have missed something, let me know, I have to check again,
+I have been checking all peoples problems for 3 hours, 1 by 1.
+Anyone want to add any modification or suggestion.
+Let me know.
+
+
+most of the peolpes have tried, it is good.
+We shall move to next problems
+16/06/2019, 2:49 pm - +91 96035 94976: Hi Rakesh, can you check z _value function? If mine is it correct?
+16/06/2019, 2:53 pm - Rakesh ML: Not possible.
+Tomorrow
+I'm watching match
+16/06/2019, 2:55 pm - +91 99865 94131: 🇮🇳
+16/06/2019, 8:01 pm - +91 94078 19149 joined using this group's invite link
+16/06/2019, 11:19 pm - Rakesh ML: Ok
+17/06/2019, 1:34 am - Rakesh ML: Guys, You need to few more days to complete or modify your 1st and 2nd problems.
+OR
+We shall move to the next problems statement.
+
+What should we do?
+17/06/2019, 1:35 am - +91 94810 71831: Move to the next. It’s already 2 weeks now
+17/06/2019, 1:35 am - Rakesh ML: what should be next?
+Python?
+Data Science?
+Machine Learning?
+Deep Learning?
+NLP?
+17/06/2019, 1:36 am - +91 94810 71831: Let’s complete python
+17/06/2019, 1:36 am - Rakesh ML: ok
+17/06/2019, 1:38 am - Rakesh ML: 1) Srinivas : 
+A) You have implemented very well.
+B)Try to add "Try and Except and Finally" Concept, so your code will become more powerful
+C)Write the MeaningFull variables name.
+
+2) Dhrumil:
+Completed Some question(Plz do not PDF file), you can implement in pycharm.
+Why you had added rar file?
+
+3) Manoj:
+I did not get any update from you.
+
+4)Mukuthan:
+Only some questions have completed.
+
+5)Elakki:
+I got the update only 3 programs from you.
+Check Error condition?
+
+
+6)Meghana:
+I got the update only 3 programs from you.
+Added GCD also
+Completed very well
+Check Error condition?
+
+
+7)Sri Rahul:
+I did not get any update from you.
+
+8)Sitaram:
+I did not get any update from you.
+I am not getting, what do you want to do.
+Write a File or Function name should be meaningful.
+
+
+9)Sneha:
+I got the update only 3 programs from you.
+Check Error condition?
+
+10)Vamsi :
+I did not get any update from you.
+
+11)Vidiya :
+You have added some file(Fibonacci series)
+I did not get any update from you.
+
+12) Vinay :
+Checked, it's good
+
+13) Arpan :
+Checked, it's good
+
+14)Ashish 
+I got only 1 update
+
+15)Kiran
+Done well
+Updated and not all questions
+
+16)Mohit
+Did not get yet any update
+
+17)Nikita
+Done with help built function.
+Not Completed all questions
+
+18)Nishant
+Completed all Question(Superb)
+Anyone check Nishant code,
+He had completed very well
+
+19)Balwant
+Did not complete a single question
+
+
+20)Pavan
+Did not complete a single question
+
+21)Prashant
+Completed All question used built function
+You can write a generic Function for all your problems.
+
+22)Shubham
+Did not complete a single question
+Added NLP Simple example.
+
+23)sunil
+only Added Sorting a single problem
+
+
+24)Sunny
+Completed(Not all questions)
+
+
+
+This is group status.
+17/06/2019, 1:40 am - Rakesh ML: I have missed something in this message, let me know.
+
+but, i think so, this is the last and final result of group people.
+17/06/2019, 1:41 am - +91 94810 71831: I have completed all the questions. I will check why u got only 3 questions
+17/06/2019, 1:41 am - Rakesh ML: only 2 peoples had completed(not all).
+
+but all wanted to complete all questions.
+17/06/2019, 1:42 am - Rakesh ML: I have to check again.
+17/06/2019, 1:42 am - +91 94810 71831: Check Meghana_Challenge.py
+17/06/2019, 1:44 am - Rakesh ML: ok
+17/06/2019, 1:44 am - Rakesh ML: i will check tomorrow
+17/06/2019, 1:44 am - +91 94810 71831: 👍🏻
+17/06/2019, 1:45 am - Rakesh ML: This message was deleted
+17/06/2019, 1:46 am - Rakesh ML: Python?
+Data Science?
+Machine Learning?
+Deep Learning?
+NLP?
+
+This time, only 1 people can implement only 1 problem.
+If they complete, then they will start to implement other problems.
+17/06/2019, 1:47 am - +91 94810 71831: But let us know other questions too. It will help in future.
+17/06/2019, 1:47 am - Rakesh ML: Guys,
+You can tell your interest now.
+17/06/2019, 1:48 am - Rakesh ML: what others?
+17/06/2019, 1:48 am - +91 94810 71831: See the expertise of people and then decide. I believe this is a collaborative learning group
+17/06/2019, 1:48 am - +91 94810 71831: Means other problem statements also
+17/06/2019, 1:48 am - Rakesh ML: like?
+17/06/2019, 1:49 am - +91 94810 71831: You said one question for one person. Instead of that give a list of questions we will implement one
+17/06/2019, 1:49 am - +91 94810 71831: Whenever free we can work on the rest
+17/06/2019, 1:49 am - Rakesh ML: ok
+17/06/2019, 1:50 am - +91 94810 71831: The aim is maximum exposure to different kinds of questions
+17/06/2019, 1:53 am - Rakesh ML: Guys, i found only a few people code and logic are very good, i can merge only that code.
+If anyone wants to merge own code to master, let me know, i will review and merge.
+
+I can merge only the standard code.
+I got only from few people
+17/06/2019, 1:55 am - Rakesh ML: Guys,
+Who are not implementing anything, Plz leave the group.
+I will add other people to work with us.
+17/06/2019, 1:55 am - Rakesh ML: I know, you want to learn honestly.
+17/06/2019, 1:57 am - Rakesh ML: Do not Waste my time and group people time.
+17/06/2019, 2:06 am - Rakesh ML: I told all people , I can refer only that peoples, you will complete first and second problem statement.
+I can refer only 2 people (Meghana and Nishant).
+
+I can't refer other people.
+Sorry.
+17/06/2019, 2:08 am - Rakesh ML: Don't message me personally for job.
+I can't help you.
+I can help only that person, who had implemented honestly
+17/06/2019, 8:34 am - +91 88676 89114: Hey Rakesh , i have uploaded all except standardarization , that's in my local i will push , other than that ??? I have combined in files and also i have not done only with built function , i have done in diff ways too , comment on it with example so i can understand what you want to say
+17/06/2019, 8:35 am - +91 88676 89114: Yeah i agree , give all list ofquestion
+17/06/2019, 8:36 am - +91 77089 20801: @rakesh I can't able to push my code to master
+17/06/2019, 8:37 am - +91 77089 20801: Seems like iam facing issue at my end
+17/06/2019, 8:37 am - +91 88676 89114: N also at last once its done also give your answer or whom you think has done best so we can refer it and improve myself n do better
+17/06/2019, 9:02 am - +91 96035 94976: Hi Rakesh, I have completed all, please have a check one more time
+17/06/2019, 9:26 am - +91 77089 20801: @rakesh please delete my old branch Machine-learning/ArtificialManoj, my new branch name is ArtificialManoj I have pushed this branch again please check
+17/06/2019, 9:41 am - Rakesh ML: Ok, I will check again
+17/06/2019, 9:41 am - Rakesh ML: You can delete yourself
+17/06/2019, 9:45 am - +91 77089 20801: Ok
+17/06/2019, 10:36 am - +91 99865 94131: I'll let you know what topics I think we should learn @918951101651
+17/06/2019, 10:37 am - +91 96035 94976: @rakesh did you have a look?
+17/06/2019, 1:28 pm - Rakesh ML: Task 3
+1)what is the digit value of the factorial number?
+Input :  5   output : 3(5! = 120) 
+Input :  6   output : 3(6! = 720)
+Input :  7   output : 4(7! = 5040) 
+Input :  4   output : 2(4! = 24)
+Input :  3   output : 1(3! =6)
+
+2)Replace the current value with the next large value in an array, if there is no any large value exists in an array, so Replace with -1.
+
+Tese Case : 1) Input :  [2,1,5,2,6,2] . output : [5,5,6,6-1,-1]
+
+Tese Case : 2) Input :  [2,1,5,2,6,20] . output : [5,5,6,6-20,-1]
+
+Tese Case : 3) Input :  [22,1,5,2,6,20] . output : [-1,-1,-1,1,-1,-1]
+
+Tese Case : 4) Input :  [0,1,5,2,6,20] . output : [20,20,20,20,20,-1]
+
+Tese Case : 4) Input :  [100,111,115,222,666,777] . output : [111,115,222,666,777,-1]
+17/06/2019, 1:29 pm - Rakesh ML: Interview question
+17/06/2019, 3:58 pm - +91 99240 26836: Could we use here inbuilt function?
+17/06/2019, 4:01 pm - +91 94810 71831: I didn’t get the second question. How are we getting two -1 ?
+17/06/2019, 4:01 pm - +91 94810 71831: The first 4 elements are clear
+17/06/2019, 4:02 pm - +91 94810 71831: Last element is -1 that’s also clear
+17/06/2019, 4:02 pm - +91 94810 71831: I’m asking about last but 1
+17/06/2019, 4:03 pm - +91 99865 94131: Doesn't test logic as much
+17/06/2019, 4:04 pm - Rakesh ML: You have to compare present value to next large value, that value should be anywhere next of present value.
+If you will not get large value in list, you have to update with-1
+17/06/2019, 4:04 pm - Rakesh ML: No
+17/06/2019, 4:04 pm - +91 94810 71831: Ok
+17/06/2019, 4:05 pm - +91 94810 71831: What is two elements are equal ?
+17/06/2019, 4:05 pm - Rakesh ML: Means
+17/06/2019, 4:06 pm - +91 94810 71831: Two consecutive elements are the same
+17/06/2019, 4:06 pm - +91 94810 71831: Something like [5,5,5,5]
+17/06/2019, 4:07 pm - Rakesh ML: Read carefully, I have mentioned next large value
+17/06/2019, 4:08 pm - Rakesh ML: 5<5 false
+5<6
+True
+17/06/2019, 4:08 pm - Rakesh ML: Comparison between large value only
+17/06/2019, 4:13 pm - +91 94810 71831: Ok
+17/06/2019, 4:27 pm - Rakesh ML: This message was deleted
+17/06/2019, 4:27 pm - Rakesh ML: This message was deleted
+17/06/2019, 4:28 pm - +91 96035 94976: Hi Rakesh, I have completed all by last Tuesday itself but you didn't mention as completed. Please have a look?
+17/06/2019, 4:32 pm - Rakesh ML: I will check
+17/06/2019, 5:10 pm - Rakesh ML: Checked, you have completed all questions
+17/06/2019, 5:10 pm - +91 77089 20801: Hi rakesh, I have pushed my new branch  "ArtificialManoj" please  accept it, I have also pushed the assignment code for python a week back and today couple of times please check
+17/06/2019, 5:11 pm - +91 96035 94976: Thanks 😊
+17/06/2019, 5:31 pm - Rakesh ML: Task 3
+1)what is the digit value of the factorial number?
+Input :  5   output : 3(5! = 120) 
+Input :  6   output : 3(6! = 720)
+Input :  7   output : 4(7! = 5040) 
+Input :  4   output : 2(4! = 24)
+Input :  3   output : 1(3! =6)
+
+2)Replace the current value with the next large value in an array, if there is no any large value exists in an array, so Replace with -1.
+Tese Case : 
+1) Input : [2,1,5,2,6,2] .output : [5,5,6,6-1,-1]
+
+2) Input :  [2,1,5,2,6,20] . output : [5,5,6,6-20,-1]
+
+3) Input :  [22,1,5,2,6,20] . output : [-1,-1,-1,1,-1,-1]
+
+ 4) Input :  [0,1,5,2,6,20] . output : [1, 5, 6, 6, 20, -1]
+
+ 5) Input :  [100,111,115,222,666,777] . output : [111,115,222,666,777,-1]
+17/06/2019, 5:33 pm - Rakesh ML: This message was deleted
+17/06/2019, 9:18 pm - +91 86046 49926: Second question is still not clear, if we have to find the next large value of current value then in example 4 the output should be [1, 2,6,6,20,-1]
+17/06/2019, 9:21 pm - +91 96035 94976: No, next large value in the sense, value in the immediate index
+17/06/2019, 9:22 pm - +91 99865 94131: Immediate larger number
+17/06/2019, 9:22 pm - +91 96035 94976: If value in the immediate index is less then present value then go for next index value
+17/06/2019, 9:23 pm - +91 86046 49926: Okay thanks
+17/06/2019, 9:33 pm - +91 86046 49926: @918951101651 i have pushed both the codes plz review
+17/06/2019, 10:02 pm - Rakesh ML: Ok
+17/06/2019, 10:06 pm - Rakesh ML: I have merged your code, but in your code, Reverse string file is having conflict
+17/06/2019, 10:12 pm - +91 86046 49926: Ok i'll resolve it
+17/06/2019, 10:12 pm - Rakesh ML: I have resolved, leave it
+17/06/2019, 10:13 pm - +91 86046 49926: Ok thanks
+17/06/2019, 10:18 pm - Rakesh ML: Guys don't create local branch more than one, I found many people had created more than one branch.
+One local branch is enough.
+17/06/2019, 10:27 pm - +91 94818 87872: Rakesh i have pushed 3 more programs prev assignment..pls check
+17/06/2019, 10:33 pm - Rakesh ML: Plz check with this input 40 5 7 40
+17/06/2019, 10:33 pm - Rakesh ML: 40 5 7 40
+[-1, 7, 40, -1]
+17/06/2019, 10:34 pm - Rakesh ML: Completed only first task
+17/06/2019, 10:36 pm - Rakesh ML: @918604649926 
+Your factorial is working fine, but you have to handle 0.
+you can check once with 0
+17/06/2019, 10:44 pm - +91 86046 49926: Checked, it's working fine
+17/06/2019, 10:44 pm - +91 86046 49926: Handled👍🏻👍🏻
+17/06/2019, 10:46 pm - +91 77089 20801: @918951101651 have you checked my code
+17/06/2019, 11:00 pm - Rakesh ML: Yes
+17/06/2019, 11:03 pm - Rakesh ML: Saturday or Sunday, we shall start to implement data science or Machine Learning or Deep Learning or NLP problem statement.
+17/06/2019, 11:05 pm - Rakesh ML: Who did not implement all questions, you can implement as soon as possible.
+Next onwards we shall discuss about data set
+17/06/2019, 11:07 pm - Rakesh ML: Who else had implemented all questions.
+You can implement all questions with class.
+Means try to apply oops concepts and try, exception.
+It will help you for interview and coding competition
+17/06/2019, 11:17 pm - +91 94810 71831: 👍🏻
+18/06/2019, 12:15 am - +91 99865 94131: Pushed Test 3 to GitHub
+@918951101651
+18/06/2019, 12:44 am - +91 99865 94131: Quick favour for anyone who reads this.
+
+Can you access this link?
+https://github.com/RakeshKumar045/MLGroupPractice/tree/nishant/Added%20exercises
+18/06/2019, 12:44 am - Rakesh ML: I have merged all everyone code.
+You can take pull from Development branch.
+
+Before take pull from GitHub Development l, 
+Please keep backup of your current code.
+
+How to take pull from GitHub??
+Check documents or you tube video
+18/06/2019, 12:46 am - Rakesh ML: I can see your code base on your URL.
+But it's not showing on GitHub code without URL your updated code
+18/06/2019, 12:50 am - Rakesh ML: It's showing now
+18/06/2019, 12:52 am - Rakesh ML: Please you can delete your old local branch.
+Otherwise I can delete your local branch, might be you will be lost your code.
+For safety, delete yourself
+18/06/2019, 12:52 am - +91 99865 94131: Cool, thanks
+18/06/2019, 1:13 am - Rakesh ML: Your code is working for all test cases
+18/06/2019, 1:13 am - +91 99865 94131: 👍🏽
+18/06/2019, 10:50 am - +91 90302 07600 joined using this group's invite link
+18/06/2019, 11:33 am - +91 88676 89114: @918951101651  can you please comment on it also
+18/06/2019, 11:50 am - Rakesh ML: You have completed.
+I already merged everyone code in development.
+Take pull from development branch
+18/06/2019, 11:58 am - +91 99702 80429: Just a suggestion @918951101651 , is it possible for you to post the questions in your GitHub repo only. So that we git pull the stuff and start working on it. 
+
+If you are ok then you can do it from the next exercise
+18/06/2019, 12:04 pm - Rakesh ML: Ok
+20/06/2019, 7:52 am - +91 94818 87872: Hi all, i came across question..where they had given a sum such that target variable  x and degree of a number n is given ..we need to express number num in fashion of num**n=x or num1**n+num2**n=x or num1**n+num2**n+num3**n=x and so on in python...can anybody share inputs on logic
+21/06/2019, 9:22 am - Rakesh ML: Interview Technical questions are very common nowadays.
+
+Expression oriented functions of Python provides are:
+
+1. map(aFunction, aSequence)
+2. filter(aFunction, aSequence)
+3. reduce(aFunction, aSequence)
+4. lambda
+5. list comprehension
+
+
+Interview very important coding question
+1) outpu:
+1
+12
+123
+1234
+
+2)
+1
+22
+333
+4444
+
+3)
+*
+**
+***
+****
+21/06/2019, 9:36 am - Rakesh ML: End of this weekend (Means Sunday).
+Python Practice and Interview Practice and Coding Practice most of the peoples will have completed.
+21/06/2019, 9:38 am - Rakesh ML: Next Topics :
+1) Series
+2) Dataframe
+3) Pandas
+4) Matplot
+5) Seaborn
+21/06/2019, 9:41 am - Rakesh ML: 6) Numpy
+21/06/2019, 9:41 am - +91 94810 71831: Sklearn ?
+21/06/2019, 9:42 am - Rakesh ML: After that
+21/06/2019, 9:42 am - +91 94810 71831: If we are doing seaborn , is going in depth for matplotlib necessary ?
+21/06/2019, 9:42 am - +91 94810 71831: Seaborn is built Over matplot lib
+21/06/2019, 9:42 am - +91 94810 71831: Even zip they ask
+21/06/2019, 9:43 am - Rakesh ML: It's 60 % of data science and machine learning and deep learning important concepts
+21/06/2019, 9:43 am - Rakesh ML: Yes
+Apply also
+21/06/2019, 9:44 am - Rakesh ML: Who else know this concept, they will clear any types of interview or coding round
+21/06/2019, 9:45 am - +91 94810 71831: Zip, apply , enumerate(), difference between range and arange()
+21/06/2019, 9:45 am - +91 94810 71831: Iterators
+21/06/2019, 9:56 am - Rakesh ML: 👍👍
+23/06/2019, 9:55 pm - +91 97187 67661 joined using this group's invite link
+23/06/2019, 10:56 pm - +91 99702 80429: @918951101651  where are you with reviewing the task 3 ? And when are we going to get the next task ?
+24/06/2019, 4:16 pm - +91 99240 26836: Anyone could help me to convert webEx(.arf) file to .mp4 format?
+Free or with low cost
+24/06/2019, 8:01 pm - Rakesh ML: Don't send here , you can ask that group only
+24/06/2019, 8:02 pm - Rakesh ML: I will review task 3 in weekend.
+24/06/2019, 8:04 pm - +91 99702 80429: Is this the next assignment or is it just information passed to this group ?
+24/06/2019, 8:04 pm - Rakesh ML: Next Topics :
+1) Series
+2) Dataframe
+3) Pandas
+4) Matplot
+5) Seaborn
+6)Numpy
+7) zip, reduce, apply, filter, map, lambda, list compression
+24/06/2019, 8:06 pm - Rakesh ML: It's assignment.
+Who else wants to clear interview or it will help for data science and machine learning algorithms
+They will do.
+24/06/2019, 8:06 pm - +91 99702 80429: Ok cool. Thanks Rakesh. Will try to work on these too and would check in the code
+24/06/2019, 8:09 pm - Rakesh ML: Data science and machine learning coding are very complex and challenging and complicated and difficult.
+
+Bcoz single line code can have many things.
+24/06/2019, 9:17 pm - +91 74114 35691 joined using this group's invite link
+24/06/2019, 9:37 pm - Rakesh ML: Guys, 
+I am busing this weekend.
+I will update ASAP DS, ML, DL topics.
+24/06/2019, 9:38 pm - Rakesh ML: Try to complete this task ASAP and other topics.
+24/06/2019, 9:42 pm - +91 94810 71831: Which other topics ?
+24/06/2019, 9:42 pm - +91 94810 71831: Anything apart from this ?
+24/06/2019, 9:43 pm - Rakesh ML: You can also add any topics.
+24/06/2019, 9:43 pm - Rakesh ML: 🤔
+No
+24/06/2019, 9:43 pm - +91 94810 71831: I think we will take one topic one week and go deep into it
+24/06/2019, 9:44 pm - +91 94810 71831: 15-20 questions from each of the topic everyweek. What say ?
+24/06/2019, 9:45 pm - Rakesh ML: only a few peoples are doing.
+24/06/2019, 9:46 pm - Rakesh ML: We can not do many questions in a week.
+24/06/2019, 9:53 pm - +91 99240 26836: 👍👍
+24/06/2019, 9:53 pm - +91 99240 26836: Making a algorithms/programs using there topics only
+24/06/2019, 9:55 pm - +91 94810 71831: Pandas and all are one liners . Don’t need much time.
+26/06/2019, 9:11 pm - +91 94810 71831: @918951101651 when are we starting the next set ? Anything up for us ?
+26/06/2019, 9:19 pm - Rakesh ML: Next week.
+26/06/2019, 9:56 pm - +91 75062 48026 joined using this group's invite link
+26/06/2019, 10:00 pm - +91 95051 93092 joined using this group's invite link
+26/06/2019, 10:10 pm - +91 6397 765 713 joined using this group's invite link
+27/06/2019, 3:40 pm - +91 96362 87680 joined using this group's invite link
+27/06/2019, 6:06 pm - +91 93488 06030 joined using this group's invite link
+29/06/2019, 10:14 pm - Rakesh ML: Guys.
+How many people have completed all 3 tasks?
+29/06/2019, 10:14 pm - +91 96035 94976: Done
+29/06/2019, 10:14 pm - Rakesh ML: Any progress?
+29/06/2019, 10:14 pm - Rakesh ML: 👍
+29/06/2019, 10:15 pm - Raja: Done
+29/06/2019, 10:15 pm - Rakesh ML: All 3 tasks
+29/06/2019, 10:15 pm - Raja: Yes
+29/06/2019, 10:16 pm - +91 99865 94131: I have
+29/06/2019, 10:18 pm - Rakesh ML: I have different types of data set.
+1) house price
+2)churn 
+3) fraud detection
+4) spam
+5) Breast cancer
+6)Time series
+7)Cat and dog
+8)NLP
+29/06/2019, 10:20 pm - Rakesh ML: Opening For Data Scientist  
+
+Experienced Required Minimum of 1 year 
+
+Position: C2H
+
+Salary: As per the industry standards
+
+Share the CV to karthik@speedtailventures.com
+
+Notice Period : 15 days
+29/06/2019, 10:20 pm - Rakesh ML: Location Bangalore
+29/06/2019, 10:20 pm - Rakesh ML: Send resume
+29/06/2019, 10:20 pm - +91 99865 94131: I'm interested in the NLP one (and the others too, obviously, but I'd like to take a look at the NLP task first).
+29/06/2019, 10:33 pm - +91 90514 97112: Nlp task as am currently working on it
+29/06/2019, 11:01 pm - +91 77320 03331 joined using this group's invite link
+29/06/2019, 10:34 pm - Rakesh ML: Ok
+30/06/2019, 12:01 am - +91 94810 71831: NLP let’s do
+30/06/2019, 12:04 am - Rakesh ML: Ok
+30/06/2019, 10:13 am - +91 99240 26836: Done
+01/07/2019, 7:41 pm - Rakesh ML: Anyone is having 3+ years experience in data science and machine learning.
+Job opening in my company.
+Send me resume
+rakesh.sit045@gmail.com
+
+
+Please don't send me less than 2.6 years experience.
+Location Bangalore
+01/07/2019, 7:41 pm - Rakesh ML: Data Engineer also 3+
+02/07/2019, 7:45 pm - +91 90514 97112: Urgent Job Opening @ PwC India: 
+We are looking for candidates with 1-4 years experience in :
+
+1. Working and support Knowledge in AWS/Azure/GCP
+2. Working and support knowledge in Linux/Windows System Administration 
+3. Exposure to GIT, CI/CD 
+4. Working knowledge in Ansible/Puppet/Chef
+5. Working knowledge on Docker
+
+Job Location: Kolkata 
+Qualification: BTech/MCA
+
+Interested candidates can sent their CV to krishanu.bhattacharya@pwc.com
+08/07/2019, 10:10 pm - +91 94810 71831: Hey guys .. what’s up ?
+08/07/2019, 10:10 pm - +91 94810 71831: I see no updates .. what’s everyone into these days ?
+13/07/2019, 11:55 am - +91 99589 29118 joined using this group's invite link
+13/07/2019, 11:59 am - Rakesh ML: Hello Guys
+13/07/2019, 12:00 pm - Rakesh ML: Let's start to implement data science or machine learning or deep learning or NLP task.
+One by one
+13/07/2019, 12:01 pm - Rakesh ML: How many people had completed Task 1, 2,3
+13/07/2019, 12:05 pm - +91 96035 94976: ✋🏻
+13/07/2019, 12:05 pm - +91 99865 94131: I have
+13/07/2019, 12:09 pm - +91 98865 93396: 👍
+13/07/2019, 12:13 pm - +91 99240 26836: 👆
+13/07/2019, 12:22 pm - +91 77320 03331: I have
+13/07/2019, 12:24 pm - +91 94810 71831: I have also completed Rakesh
+13/07/2019, 12:26 pm - Raja: ✋
+13/07/2019, 12:44 pm - +91 96362 87680: ✋🏻
+14/07/2019, 10:28 am - Rakesh ML: http://challenge.ktm-innovation.com/
+15/07/2019, 2:58 pm - +91 99240 26836: Any one have below book?
+15/07/2019, 2:58 pm - +91 99240 26836: https://payhip.com/b/RYUy
+18/07/2019, 7:37 pm - +91 97187 67661: Can anyone share what kind of interview is being asked in during on logistic regression?
+20/07/2019, 11:12 am - +91 99589 29118 left
+17/08/2019, 12:31 pm - Rakesh ML: Anyone is participating to PyTorch Microsoft Azure competition??
+17/08/2019, 12:46 pm - +91 74168 35767 left
+09/09/2019, 9:40 pm - +91 78377 71731: https://deepfakedetectionchallenge.ai/
